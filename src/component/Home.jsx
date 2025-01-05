@@ -1,12 +1,13 @@
 import React from "react";
 import Products from "./Products";
+import img from "../assets/fashion3.png"; // Updated path
 
 function Home() {
   return (
     <div className="hero">
       <div className="card text-bg-dark border-0 rounded-0">
         <img
-          src="/assets/fashion3.png"
+          src={img}
           className="card-img"
           alt="Background"
           style={{ height: "550px", objectFit: "cover" }}
