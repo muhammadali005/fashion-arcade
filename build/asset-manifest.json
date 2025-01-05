@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fashion-arcade/static/css/main.3e333a68.css",
+    "main.js": "/fashion-arcade/static/js/main.ba40cd61.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/fashion-arcade/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/fashion-arcade/index.html",
+    "main.3e333a68.css.map": "/fashion-arcade/static/css/main.3e333a68.css.map",
+    "main.ba40cd61.js.map": "/fashion-arcade/static/js/main.ba40cd61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e333a68.css",
+    "static/js/main.ba40cd61.js"
+  ]
+}
