@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fashion-arcade/static/css/main.ca0efa83.css",
-    "main.js": "/fashion-arcade/static/js/main.c151bf6b.js",
-    "static/media/fashion3.png": "/fashion-arcade/static/media/fashion3.c1e0fef451041360f619.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/fashion-arcade/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/fashion-arcade/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/fashion-arcade/index.html",
-    "main.ca0efa83.css.map": "/fashion-arcade/static/css/main.ca0efa83.css.map",
-    "main.c151bf6b.js.map": "/fashion-arcade/static/js/main.c151bf6b.js.map"
+    "main.css": "/static/css/main.364cf98e.css",
+    "main.js": "/static/js/main.a0a3373e.js",
+    "static/media/fashion3.png": "/static/media/fashion3.c1e0fef451041360f619.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/index.html",
+    "main.364cf98e.css.map": "/static/css/main.364cf98e.css.map",
+    "main.a0a3373e.js.map": "/static/js/main.a0a3373e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca0efa83.css",
-    "static/js/main.c151bf6b.js"
+    "static/css/main.364cf98e.css",
+    "static/js/main.a0a3373e.js"
   ]
 }

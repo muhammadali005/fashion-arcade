@@ -2,7 +2,7 @@
   "name": "fashion-arcade",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muhammadali005.github.io/fashion-arcade",
+  "homepage": "",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "bootstrap": "^5.3.3",
